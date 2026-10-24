@@ -1,6 +1,6 @@
-﻿# stream_lights_PLUS - STM32 流水灯(进阶版)
+# stream_lights_PLUS - STM32 流水灯(进阶版)
 
-> 本项目由 DeepSeek AI 生成,本次由 Gemini 辅助完成,用于学校课程作业(学习用途)。
+> 本 README 由 DeepSeek AI 生成,本次由 Gemini 辅助完成,用于学校课程作业(学习用途)。
 >
 > 在学了在学了.正在照葫芦画葫芦中........
 
