@@ -1,0 +1,5 @@
+﻿# STM32CubeIDE 编译产物
+Debug/
+Release/
+.settings/
+*.scvd
